@@ -21,3 +21,4 @@ services:
           path: requirements.txt
         - action: rebuild
           path: compose.yaml
+ 
